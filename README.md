@@ -1,7 +1,6 @@
 # Plate detection-counting
 
-![hate](https://user-images.githubusercontent.com/61036755/95574233-42d44f80-0a4a-11eb-91ab-4736a7fb5c00.jpg)
-<p>This is Hate speech detection model created using Count Vectorizer and XGBoost Classifier with an Accuracy upto 0.9471, train-test split of 70:30, which can be used to predict whether tweets are hate or non-hate.</p>
+https://github.com/mandar196/Plate-detection-counting/assets/61036755/1eae43f9-27cf-4e51-a639-b9d901b09eca
 
 <hr>
 
