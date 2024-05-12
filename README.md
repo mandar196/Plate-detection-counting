@@ -6,8 +6,12 @@ Original video Screenshot:
 
 Output:
 
+![detect_5](https://github.com/mandar196/Plate-detection-counting/assets/61036755/0418a3d9-ece4-4f00-9a22-dec27279d650)
+
 ![detect_2](https://github.com/mandar196/Plate-detection-counting/assets/61036755/3a991ed9-e190-4220-bd01-da05c4308609)
+
 ![detect_1](https://github.com/mandar196/Plate-detection-counting/assets/61036755/5c8364a8-81e4-4203-af0c-1abd6ebc0da1)
+
 ![detect_3](https://github.com/mandar196/Plate-detection-counting/assets/61036755/6feba713-3c2c-4254-b1af-901d240dcb24)
 
 
