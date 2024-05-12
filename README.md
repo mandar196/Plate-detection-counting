@@ -1,9 +1,14 @@
 # Plate detection-counting
 
+Original video Screenshot:
 
-https://github.com/mandar196/Plate-detection-counting/assets/61036755/53fc9b9d-8113-46bb-a3e7-29aab612756d
+![detect_4](https://github.com/mandar196/Plate-detection-counting/assets/61036755/ba285635-87cc-47b7-9f81-cfa47fa06b54)
 
+Output:
 
+![detect_2](https://github.com/mandar196/Plate-detection-counting/assets/61036755/3a991ed9-e190-4220-bd01-da05c4308609)
+![detect_1](https://github.com/mandar196/Plate-detection-counting/assets/61036755/5c8364a8-81e4-4203-af0c-1abd6ebc0da1)
+![detect_3](https://github.com/mandar196/Plate-detection-counting/assets/61036755/6feba713-3c2c-4254-b1af-901d240dcb24)
 
 
 <hr>
