@@ -1,10 +1,6 @@
 # Plate detection-counting
 
 
-
-https://github.com/mandar196/Plate-detection-counting/assets/61036755/932a4960-4fd2-4cf1-8125-1173dcc24ead
-
-
 https://github.com/mandar196/Plate-detection-counting/assets/61036755/53fc9b9d-8113-46bb-a3e7-29aab612756d
 
 
